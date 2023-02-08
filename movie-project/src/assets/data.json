@@ -1,0 +1,52 @@
+[
+    {
+        "show": "True Detective",
+        "score": "8",
+        "stream": "HBO"
+    },
+    {
+        "show": "Squid Game",
+        "score": "7.5",
+        "stream": "Netflix"
+    },
+    {
+        "show": "White Lotus",
+        "score": "9",
+        "stream": "HBO"
+    },
+    {
+        "show": "The staircase",
+        "score": "7",
+        "stream": "HBO"
+    },
+    {
+        "show": "Chernobyl",
+        "score": "8",
+        "stream": "HBO"
+    },
+    {
+        "show": "The last of us ",
+        "score": "9",
+        "stream": "HBO"
+    },
+    {
+        "show": "Flight attendant",
+        "score": "7",
+        "stream": "HBO"
+    },
+    {
+        "show": "The crown",
+        "score": "6",
+        "stream": "Netflix"
+    },
+    {
+        "show": "Severence",
+        "score": "8",
+        "stream": "Apple TV+"
+    },
+    {
+        "show": "Big little lies",
+        "score": "8",
+        "stream": "HBO"
+    }
+]
