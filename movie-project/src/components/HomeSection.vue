@@ -62,22 +62,16 @@
         left: 50%;
         transform: translate(-50%, -50%);
         color: white;
-        font-family: sans-serif;
+
     }
 
         .ContainerList {
-        font-family: sans-serif;
-        color: #252525;
         margin-top: 7em;
         text-align: center;
-        font-size: 1.2em;
     }
      .RandomContainer {
-        font-family: sans-serif;
-        color: #252525;
         margin-top: 7em;
         text-align: center;
-        font-size: 1.2em;
     }
 
     input {
@@ -86,7 +80,6 @@
         border-radius: 7px;
         margin: 3px;
         background-color: white;
-        color: #252525;
         font-size: .8em;
        cursor: pointer;
     }

@@ -49,7 +49,6 @@
         margin-top: 1rem;
     }
     nav a.router-link-exact-active {
-        color: #252525;
         font-size: 2em;
     }
 
