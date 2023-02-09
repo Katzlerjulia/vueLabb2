@@ -6,47 +6,26 @@
     <header>
         <div class="wrapper">
             <nav>
-                <RouterLink to="/">Home</RouterLink>
-                <RouterLink to="/about">About</RouterLink>
+                <RouterLink to="/">Hem</RouterLink>
+                <RouterLink to="/about">Om</RouterLink>
             </nav>
         </div>
-
-
     </header>
     <RouterView />
 </template>
 
 <style scoped>
     header {
-        line-height: 1.5;
-        max-height: 100vh;
+        background-color: white;
+        display: flex;
     }
 
     nav {
         width: 100%;
+        text-align: right;
+        margin-left: 10px;
         font-size: 12px;
-        text-align: center;
-        margin-top: 2rem;
-    }
-
-    header {
-        display: flex;
-        place-items: center;
-    }
-
-    header .wrapper {
-        display: flex;
-        place-items: flex-start;
-        flex-wrap: wrap;
-    }
-
-    nav {
-        text-align: left;
-        margin-left: -1rem;
-        font-size: 1rem;
-
         padding: 1rem 0;
-        margin-top: 1rem;
     }
     nav a.router-link-exact-active {
         font-size: 2em;
@@ -59,8 +38,7 @@
     nav a {
         display: inline-block;
         padding: 0 1rem;
-        border-left: 1px solid red;
-        font-family: sans-serif;
+        border-left: 2px solid red;
         text-decoration: none;
         color: #252525;
     }
